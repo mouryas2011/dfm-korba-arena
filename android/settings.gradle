@@ -1,0 +1,3 @@
+rootProject.name = "DFM Korba Arena"
+include ':app'
+
